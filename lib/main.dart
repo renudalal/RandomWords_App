@@ -3,14 +3,6 @@ import 'package:english_words/english_words.dart';
 
 void main() => runApp(MyHomePage());
 
-// class MyApp extends StatelessWidget {
-//   @override
-//   Widget build(BuildContext context) {
-//     return MaterialApp(
-//       home: MyHomePage(),
-//     );
-//   }
-
 class MyHomePage extends StatefulWidget {
   @override
   State<StatefulWidget> createState() {
